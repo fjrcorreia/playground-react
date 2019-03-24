@@ -7,5 +7,5 @@ Playground for [React.JS](https://facebook.github.io/react/)
 ## Configuration
  - Using a Single File, with all the environments, selected on runtime
  - Use a Plugin that will load the appropriated file
- - Using a module that will contain the configurations still requires
+ - Using a module that will contain the required configurations
  - Loading the configuration at runtime
